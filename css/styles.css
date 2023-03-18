@@ -1,0 +1,145 @@
+body {
+    font-family: 'Montserrat';
+    text-align: center;
+}
+
+
+
+.container-fluid {
+    padding: 3% 7% 7%;
+}
+
+.big-heading {
+    font-size: 3.5rem;
+    line-height: 1.5;
+    padding: 2% 2% 2% 2%;
+
+}
+
+#H:hover {
+    color: rgb(243, 43, 120);
+}
+
+/*luffy zoro image*/
+
+.picture2 {
+    display: none;
+    
+}
+
+.thumbnail:hover .picture1 {
+    display: none;
+    
+}
+
+.thumbnail:hover .picture2 {
+    display: block;
+   
+}
+
+
+/*sections*/
+.coloured {
+    background-color: #030001;
+    color: white;
+}
+
+
+
+/* navbar */
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+
+.navbar-brand {
+    font-family: 'ubuntu';
+    font-size: 2.5rem;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-weight: 400;
+}
+
+/* download button */
+
+.download-button {
+    margin: 5% 3% 5% 0;
+
+}
+
+/* title */
+#title {
+
+    text-align: center;
+}
+.searchbox{
+    position: absolute;
+    left: 450px;
+    width: 400px;
+    
+
+}
+/* show */
+.card{
+
+    background-color: black;
+}
+.show-head{
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    color: grey;
+    font-weight: normal;
+    text-align: center;
+}
+
+#black{
+    padding: 3% 7% 7%;
+}
+
+
+.show-coloum {
+    padding: 4% 2%;
+}
+
+
+
+.show-text{
+    font-size: 2 rem;
+    line-height: 1.5;
+    font-weight: normal;
+    color: white;
+}
+
+#black{
+    color: black;
+}
+
+#ph:hover{
+    color: rgb(243, 43, 120); 
+}
+
+#footer{
+    padding: 3% 7% 7%;
+    
+}
+
+
+
+.a {
+    color: rgb(243, 43, 120) ;
+  }
+
+  .li{
+    padding: 2% 2% 2% 2%;
+  }
